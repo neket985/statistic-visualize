@@ -1,0 +1,4784 @@
+[
+  {
+    "id": "66691",
+    "name": "Первая Лига 19/20",
+    "start_date": "2019-08-06",
+    "end_date": "2020-06-12",
+    "year": "19/20",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "548.0": 1.0
+              },
+              "country_code": {
+                "450.0": 0.8211678832116789
+              },
+              "id": {
+                "548.0": 1.0
+              },
+              "qualifier": {
+                "548.0": 1.0
+              },
+              "country": {
+                "450.0": 0.8211678832116789
+              },
+              "abbreviation": {
+                "548.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "32.0": 1.0
+              },
+              "city_name": {
+                "32.0": 1.0
+              },
+              "map_coordinates": {
+                "24.0": 0.75
+              },
+              "name": {
+                "32.0": 1.0
+              },
+              "capacity": {
+                "32.0": 1.0
+              },
+              "country_code": {
+                "32.0": 1.0
+              },
+              "country_name": {
+                "32.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "274.0": 1.0
+                },
+                "country_code": {
+                  "274.0": 1.0
+                },
+                "name": {
+                  "274.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "274.0": 1.0
+                },
+                "name": {
+                  "274.0": 1.0
+                }
+              },
+              "name": {
+                "274.0": 1.0
+              },
+              "id": {
+                "274.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "274.0": 1.0
+              },
+              "id": {
+                "274.0": 1.0
+              },
+              "name": {
+                "274.0": 1.0
+              },
+              "tournament_id": {
+                "274.0": 1.0
+              },
+              "end_date": {
+                "274.0": 1.0
+              },
+              "start_date": {
+                "274.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "phase": {
+                "274.0": 1.0
+              },
+              "number": {
+                "274.0": 1.0
+              },
+              "type": {
+                "274.0": 1.0
+              }
+            },
+            "scheduled": {
+              "274.0": 1.0
+            },
+            "start_time_tbd": {
+              "274.0": 1.0
+            },
+            "id": {
+              "274.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.0072992700729927005
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "32.0": 1.0
+              },
+              "capacity": {
+                "32.0": 1.0
+              },
+              "map_coordinates": {
+                "24.0": 0.75
+              },
+              "name": {
+                "32.0": 1.0
+              },
+              "city_name": {
+                "32.0": 1.0
+              },
+              "country_code": {
+                "32.0": 1.0
+              },
+              "country_name": {
+                "32.0": 1.0
+              }
+            },
+            "weather_info": {
+              "weather_conditions": {
+                "94.0": 1.0
+              },
+              "pitch": {
+                "94.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "267.0": 1.0
+              },
+              "type": {
+                "267.0": 1.0
+              },
+              "away_score": {
+                "267.0": 1.0
+              },
+              "number": {
+                "267.0": 1.0
+              }
+            },
+            "status": {
+              "274.0": 1.0
+            },
+            "home_score": {
+              "135.0": 0.4927007299270073
+            },
+            "away_score": {
+              "135.0": 0.4927007299270073
+            },
+            "decided_by_fed": {
+              "3.0": 0.010948905109489052
+            },
+            "winner_id": {
+              "118.0": 0.4306569343065693
+            }
+          },
+          "generated_at": {
+            "274.0": 1.0
+          },
+          "schema": {
+            "274.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "548.0": 1.0
+              },
+              "country_code": {
+                "450.0": 0.8211678832116789
+              },
+              "id": {
+                "548.0": 1.0
+              },
+              "qualifier": {
+                "548.0": 1.0
+              },
+              "country": {
+                "450.0": 0.8211678832116789
+              },
+              "abbreviation": {
+                "548.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "32.0": 1.0
+              },
+              "city_name": {
+                "32.0": 1.0
+              },
+              "map_coordinates": {
+                "24.0": 0.75
+              },
+              "name": {
+                "32.0": 1.0
+              },
+              "capacity": {
+                "32.0": 1.0
+              },
+              "country_code": {
+                "32.0": 1.0
+              },
+              "country_name": {
+                "32.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "274.0": 1.0
+                },
+                "country_code": {
+                  "274.0": 1.0
+                },
+                "name": {
+                  "274.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "274.0": 1.0
+                },
+                "name": {
+                  "274.0": 1.0
+                }
+              },
+              "name": {
+                "274.0": 1.0
+              },
+              "id": {
+                "274.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "274.0": 1.0
+              },
+              "id": {
+                "274.0": 1.0
+              },
+              "name": {
+                "274.0": 1.0
+              },
+              "tournament_id": {
+                "274.0": 1.0
+              },
+              "end_date": {
+                "274.0": 1.0
+              },
+              "start_date": {
+                "274.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "phase": {
+                "274.0": 1.0
+              },
+              "number": {
+                "274.0": 1.0
+              },
+              "type": {
+                "274.0": 1.0
+              }
+            },
+            "scheduled": {
+              "274.0": 1.0
+            },
+            "start_time_tbd": {
+              "274.0": 1.0
+            },
+            "id": {
+              "274.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.0072992700729927005
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "32.0": 1.0
+              },
+              "capacity": {
+                "32.0": 1.0
+              },
+              "map_coordinates": {
+                "24.0": 0.75
+              },
+              "name": {
+                "32.0": 1.0
+              },
+              "city_name": {
+                "32.0": 1.0
+              },
+              "country_code": {
+                "32.0": 1.0
+              },
+              "country_name": {
+                "32.0": 1.0
+              }
+            },
+            "weather_info": {
+              "weather_conditions": {
+                "94.0": 1.0
+              },
+              "pitch": {
+                "94.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "267.0": 1.0
+              },
+              "type": {
+                "267.0": 1.0
+              },
+              "away_score": {
+                "267.0": 1.0
+              },
+              "number": {
+                "267.0": 1.0
+              }
+            },
+            "ball_locations": {
+              "x": {
+                "320.0": 1.0
+              },
+              "y": {
+                "320.0": 1.0
+              },
+              "team": {
+                "320.0": 1.0
+              }
+            },
+            "status": {
+              "274.0": 1.0
+            },
+            "home_score": {
+              "135.0": 0.4927007299270073
+            },
+            "away_score": {
+              "135.0": 0.4927007299270073
+            },
+            "decided_by_fed": {
+              "3.0": 0.010948905109489052
+            },
+            "winner_id": {
+              "118.0": 0.4306569343065693
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "274.0": 1.0
+              }
+            },
+            "level": {
+              "274.0": 1.0
+            },
+            "live_coverage": {
+              "274.0": 1.0
+            }
+          },
+          "generated_at": {
+            "274.0": 1.0
+          },
+          "schema": {
+            "274.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "192.0": 1.0
+              },
+              "name": {
+                "192.0": 1.0
+              },
+              "country": {
+                "159.0": 0.828125
+              },
+              "abbreviation": {
+                "192.0": 1.0
+              },
+              "country_code": {
+                "159.0": 0.828125
+              },
+              "id": {
+                "192.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "96.0": 1.0
+              },
+              "end_date": {
+                "96.0": 1.0
+              },
+              "year": {
+                "96.0": 1.0
+              },
+              "id": {
+                "96.0": 1.0
+              },
+              "name": {
+                "96.0": 1.0
+              },
+              "start_date": {
+                "96.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "26.0": 1.0
+              },
+              "id": {
+                "26.0": 1.0
+              },
+              "capacity": {
+                "26.0": 1.0
+              },
+              "country_code": {
+                "26.0": 1.0
+              },
+              "city_name": {
+                "26.0": 1.0
+              },
+              "country_name": {
+                "26.0": 1.0
+              },
+              "map_coordinates": {
+                "19.0": 0.7307692307692307
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "96.0": 1.0
+                },
+                "country_code": {
+                  "96.0": 1.0
+                },
+                "name": {
+                  "96.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "96.0": 1.0
+                },
+                "name": {
+                  "96.0": 1.0
+                }
+              },
+              "name": {
+                "96.0": 1.0
+              },
+              "id": {
+                "96.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "96.0": 1.0
+              },
+              "number": {
+                "96.0": 1.0
+              }
+            },
+            "scheduled": {
+              "96.0": 1.0
+            },
+            "id": {
+              "96.0": 1.0
+            },
+            "start_time_tbd": {
+              "96.0": 1.0
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "288.0": 1.0
+                },
+                "probability": {
+                  "288.0": 1.0
+                }
+              },
+              "name": {
+                "96.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "96.0": 1.0
+          },
+          "generated_at": {
+            "96.0": 1.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2115",
+    "name": "Первая Лига 2009",
+    "start_date": "2009-04-09",
+    "end_date": "2009-12-31",
+    "year": "2009",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "224.0": 1.0
+              },
+              "name": {
+                "224.0": 1.0
+              },
+              "country": {
+                "224.0": 1.0
+              },
+              "abbreviation": {
+                "224.0": 1.0
+              },
+              "country_code": {
+                "224.0": 1.0
+              },
+              "id": {
+                "224.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "112.0": 1.0
+              },
+              "end_date": {
+                "112.0": 1.0
+              },
+              "year": {
+                "112.0": 1.0
+              },
+              "id": {
+                "112.0": 1.0
+              },
+              "name": {
+                "112.0": 1.0
+              },
+              "start_date": {
+                "112.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "112.0": 1.0
+                },
+                "country_code": {
+                  "112.0": 1.0
+                },
+                "name": {
+                  "112.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "112.0": 1.0
+                },
+                "name": {
+                  "112.0": 1.0
+                }
+              },
+              "name": {
+                "112.0": 1.0
+              },
+              "id": {
+                "112.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "112.0": 1.0
+              },
+              "number": {
+                "112.0": 1.0
+              }
+            },
+            "scheduled": {
+              "112.0": 1.0
+            },
+            "id": {
+              "112.0": 1.0
+            },
+            "start_time_tbd": {
+              "112.0": 1.0
+            },
+            "replaced_by": {
+              "4.0": 0.03571428571428571
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "212.0": 1.0
+              },
+              "away_score": {
+                "212.0": 1.0
+              },
+              "home_score": {
+                "212.0": 1.0
+              },
+              "number": {
+                "212.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "4.0": 0.03571428571428571
+            },
+            "status": {
+              "112.0": 1.0
+            },
+            "home_score": {
+              "108.0": 0.9642857142857143
+            },
+            "away_score": {
+              "108.0": 0.9642857142857143
+            },
+            "winner_id": {
+              "93.0": 0.8303571428571429
+            }
+          },
+          "schema": {
+            "112.0": 1.0
+          },
+          "generated_at": {
+            "112.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "224.0": 1.0
+              },
+              "name": {
+                "224.0": 1.0
+              },
+              "country": {
+                "224.0": 1.0
+              },
+              "abbreviation": {
+                "224.0": 1.0
+              },
+              "country_code": {
+                "224.0": 1.0
+              },
+              "id": {
+                "224.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "112.0": 1.0
+              },
+              "end_date": {
+                "112.0": 1.0
+              },
+              "year": {
+                "112.0": 1.0
+              },
+              "id": {
+                "112.0": 1.0
+              },
+              "name": {
+                "112.0": 1.0
+              },
+              "start_date": {
+                "112.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "112.0": 1.0
+                },
+                "country_code": {
+                  "112.0": 1.0
+                },
+                "name": {
+                  "112.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "112.0": 1.0
+                },
+                "name": {
+                  "112.0": 1.0
+                }
+              },
+              "name": {
+                "112.0": 1.0
+              },
+              "id": {
+                "112.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "112.0": 1.0
+              },
+              "number": {
+                "112.0": 1.0
+              }
+            },
+            "scheduled": {
+              "112.0": 1.0
+            },
+            "id": {
+              "112.0": 1.0
+            },
+            "start_time_tbd": {
+              "112.0": 1.0
+            },
+            "replaced_by": {
+              "4.0": 0.03571428571428571
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "212.0": 1.0
+              },
+              "away_score": {
+                "212.0": 1.0
+              },
+              "home_score": {
+                "212.0": 1.0
+              },
+              "number": {
+                "212.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "4.0": 0.03571428571428571
+            },
+            "status": {
+              "112.0": 1.0
+            },
+            "home_score": {
+              "108.0": 0.9642857142857143
+            },
+            "away_score": {
+              "108.0": 0.9642857142857143
+            },
+            "winner_id": {
+              "93.0": 0.8303571428571429
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "112.0": 1.0
+              }
+            },
+            "level": {
+              "112.0": 1.0
+            },
+            "live_coverage": {
+              "112.0": 1.0
+            }
+          },
+          "schema": {
+            "112.0": 1.0
+          },
+          "generated_at": {
+            "112.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {}
+      }
+    }
+  },
+  {
+    "id": "3299",
+    "name": "Первая Лига 2011",
+    "start_date": "2011-04-05",
+    "end_date": "2011-11-30",
+    "year": "2011",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "216.0": 1.0
+              },
+              "name": {
+                "216.0": 1.0
+              },
+              "country": {
+                "216.0": 1.0
+              },
+              "abbreviation": {
+                "216.0": 1.0
+              },
+              "country_code": {
+                "216.0": 1.0
+              },
+              "id": {
+                "216.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "108.0": 1.0
+              },
+              "end_date": {
+                "108.0": 1.0
+              },
+              "year": {
+                "108.0": 1.0
+              },
+              "id": {
+                "108.0": 1.0
+              },
+              "name": {
+                "108.0": 1.0
+              },
+              "start_date": {
+                "108.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "108.0": 1.0
+                },
+                "country_code": {
+                  "108.0": 1.0
+                },
+                "name": {
+                  "108.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "108.0": 1.0
+                },
+                "name": {
+                  "108.0": 1.0
+                }
+              },
+              "name": {
+                "108.0": 1.0
+              },
+              "id": {
+                "108.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "108.0": 1.0
+              },
+              "number": {
+                "108.0": 1.0
+              }
+            },
+            "scheduled": {
+              "108.0": 1.0
+            },
+            "id": {
+              "108.0": 1.0
+            },
+            "start_time_tbd": {
+              "108.0": 1.0
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "215.0": 1.0
+              },
+              "away_score": {
+                "215.0": 1.0
+              },
+              "home_score": {
+                "215.0": 1.0
+              },
+              "number": {
+                "215.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "1.0": 0.009259259259259259
+            },
+            "status": {
+              "108.0": 1.0
+            },
+            "home_score": {
+              "108.0": 1.0
+            },
+            "away_score": {
+              "108.0": 1.0
+            },
+            "winner_id": {
+              "91.0": 0.8425925925925926
+            }
+          },
+          "schema": {
+            "108.0": 1.0
+          },
+          "generated_at": {
+            "108.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "216.0": 1.0
+              },
+              "name": {
+                "216.0": 1.0
+              },
+              "country": {
+                "216.0": 1.0
+              },
+              "abbreviation": {
+                "216.0": 1.0
+              },
+              "country_code": {
+                "216.0": 1.0
+              },
+              "id": {
+                "216.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "108.0": 1.0
+              },
+              "end_date": {
+                "108.0": 1.0
+              },
+              "year": {
+                "108.0": 1.0
+              },
+              "id": {
+                "108.0": 1.0
+              },
+              "name": {
+                "108.0": 1.0
+              },
+              "start_date": {
+                "108.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "108.0": 1.0
+                },
+                "country_code": {
+                  "108.0": 1.0
+                },
+                "name": {
+                  "108.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "108.0": 1.0
+                },
+                "name": {
+                  "108.0": 1.0
+                }
+              },
+              "name": {
+                "108.0": 1.0
+              },
+              "id": {
+                "108.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "108.0": 1.0
+              },
+              "number": {
+                "108.0": 1.0
+              }
+            },
+            "scheduled": {
+              "108.0": 1.0
+            },
+            "id": {
+              "108.0": 1.0
+            },
+            "start_time_tbd": {
+              "108.0": 1.0
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "215.0": 1.0
+              },
+              "away_score": {
+                "215.0": 1.0
+              },
+              "home_score": {
+                "215.0": 1.0
+              },
+              "number": {
+                "215.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "1.0": 0.009259259259259259
+            },
+            "status": {
+              "108.0": 1.0
+            },
+            "home_score": {
+              "108.0": 1.0
+            },
+            "away_score": {
+              "108.0": 1.0
+            },
+            "winner_id": {
+              "91.0": 0.8425925925925926
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "108.0": 1.0
+              }
+            },
+            "level": {
+              "108.0": 1.0
+            },
+            "live_coverage": {
+              "108.0": 1.0
+            }
+          },
+          "schema": {
+            "108.0": 1.0
+          },
+          "generated_at": {
+            "108.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {}
+      }
+    }
+  },
+  {
+    "id": "8566",
+    "name": "Первая Лига 14/15",
+    "start_date": "2014-08-04",
+    "end_date": "2015-06-01",
+    "year": "14/15",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "226.0": 1.0
+              },
+              "country_code": {
+                "226.0": 1.0
+              },
+              "id": {
+                "226.0": 1.0
+              },
+              "qualifier": {
+                "226.0": 1.0
+              },
+              "country": {
+                "226.0": 1.0
+              },
+              "abbreviation": {
+                "226.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "92.0": 1.0
+              },
+              "city_name": {
+                "92.0": 1.0
+              },
+              "map_coordinates": {
+                "92.0": 1.0
+              },
+              "name": {
+                "92.0": 1.0
+              },
+              "capacity": {
+                "92.0": 1.0
+              },
+              "country_code": {
+                "92.0": 1.0
+              },
+              "country_name": {
+                "92.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "113.0": 1.0
+                },
+                "country_code": {
+                  "113.0": 1.0
+                },
+                "name": {
+                  "113.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "113.0": 1.0
+                },
+                "name": {
+                  "113.0": 1.0
+                }
+              },
+              "name": {
+                "113.0": 1.0
+              },
+              "id": {
+                "113.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "113.0": 1.0
+              },
+              "id": {
+                "113.0": 1.0
+              },
+              "name": {
+                "113.0": 1.0
+              },
+              "tournament_id": {
+                "113.0": 1.0
+              },
+              "end_date": {
+                "113.0": 1.0
+              },
+              "start_date": {
+                "113.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "113.0": 1.0
+              },
+              "type": {
+                "113.0": 1.0
+              }
+            },
+            "scheduled": {
+              "113.0": 1.0
+            },
+            "start_time_tbd": {
+              "113.0": 1.0
+            },
+            "id": {
+              "113.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.017699115044247787
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "92.0": 1.0
+              },
+              "capacity": {
+                "92.0": 1.0
+              },
+              "map_coordinates": {
+                "92.0": 1.0
+              },
+              "name": {
+                "92.0": 1.0
+              },
+              "city_name": {
+                "92.0": 1.0
+              },
+              "country_code": {
+                "92.0": 1.0
+              },
+              "country_name": {
+                "92.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "219.0": 1.0
+              },
+              "type": {
+                "219.0": 1.0
+              },
+              "away_score": {
+                "219.0": 1.0
+              },
+              "number": {
+                "219.0": 1.0
+              }
+            },
+            "status": {
+              "113.0": 1.0
+            },
+            "home_score": {
+              "110.0": 0.9734513274336283
+            },
+            "away_score": {
+              "110.0": 0.9734513274336283
+            },
+            "decided_by_fed": {
+              "1.0": 0.008849557522123894
+            },
+            "winner_id": {
+              "91.0": 0.8053097345132744
+            }
+          },
+          "generated_at": {
+            "113.0": 1.0
+          },
+          "schema": {
+            "113.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "226.0": 1.0
+              },
+              "country_code": {
+                "226.0": 1.0
+              },
+              "id": {
+                "226.0": 1.0
+              },
+              "qualifier": {
+                "226.0": 1.0
+              },
+              "country": {
+                "226.0": 1.0
+              },
+              "abbreviation": {
+                "226.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "92.0": 1.0
+              },
+              "city_name": {
+                "92.0": 1.0
+              },
+              "map_coordinates": {
+                "92.0": 1.0
+              },
+              "name": {
+                "92.0": 1.0
+              },
+              "capacity": {
+                "92.0": 1.0
+              },
+              "country_code": {
+                "92.0": 1.0
+              },
+              "country_name": {
+                "92.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "113.0": 1.0
+                },
+                "country_code": {
+                  "113.0": 1.0
+                },
+                "name": {
+                  "113.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "113.0": 1.0
+                },
+                "name": {
+                  "113.0": 1.0
+                }
+              },
+              "name": {
+                "113.0": 1.0
+              },
+              "id": {
+                "113.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "113.0": 1.0
+              },
+              "id": {
+                "113.0": 1.0
+              },
+              "name": {
+                "113.0": 1.0
+              },
+              "tournament_id": {
+                "113.0": 1.0
+              },
+              "end_date": {
+                "113.0": 1.0
+              },
+              "start_date": {
+                "113.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "113.0": 1.0
+              },
+              "type": {
+                "113.0": 1.0
+              }
+            },
+            "scheduled": {
+              "113.0": 1.0
+            },
+            "start_time_tbd": {
+              "113.0": 1.0
+            },
+            "id": {
+              "113.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.017699115044247787
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "92.0": 1.0
+              },
+              "capacity": {
+                "92.0": 1.0
+              },
+              "map_coordinates": {
+                "92.0": 1.0
+              },
+              "name": {
+                "92.0": 1.0
+              },
+              "city_name": {
+                "92.0": 1.0
+              },
+              "country_code": {
+                "92.0": 1.0
+              },
+              "country_name": {
+                "92.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "219.0": 1.0
+              },
+              "type": {
+                "219.0": 1.0
+              },
+              "away_score": {
+                "219.0": 1.0
+              },
+              "number": {
+                "219.0": 1.0
+              }
+            },
+            "status": {
+              "113.0": 1.0
+            },
+            "home_score": {
+              "110.0": 0.9734513274336283
+            },
+            "away_score": {
+              "110.0": 0.9734513274336283
+            },
+            "decided_by_fed": {
+              "1.0": 0.008849557522123894
+            },
+            "winner_id": {
+              "91.0": 0.8053097345132744
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "113.0": 1.0
+              }
+            },
+            "level": {
+              "113.0": 1.0
+            },
+            "live_coverage": {
+              "113.0": 1.0
+            }
+          },
+          "generated_at": {
+            "113.0": 1.0
+          },
+          "schema": {
+            "113.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "190.0": 1.0
+              },
+              "name": {
+                "190.0": 1.0
+              },
+              "country": {
+                "190.0": 1.0
+              },
+              "abbreviation": {
+                "190.0": 1.0
+              },
+              "country_code": {
+                "190.0": 1.0
+              },
+              "id": {
+                "190.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "95.0": 1.0
+              },
+              "end_date": {
+                "95.0": 1.0
+              },
+              "year": {
+                "95.0": 1.0
+              },
+              "id": {
+                "95.0": 1.0
+              },
+              "name": {
+                "95.0": 1.0
+              },
+              "start_date": {
+                "95.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "78.0": 1.0
+              },
+              "id": {
+                "78.0": 1.0
+              },
+              "capacity": {
+                "78.0": 1.0
+              },
+              "country_code": {
+                "78.0": 1.0
+              },
+              "city_name": {
+                "78.0": 1.0
+              },
+              "country_name": {
+                "78.0": 1.0
+              },
+              "map_coordinates": {
+                "78.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "95.0": 1.0
+                },
+                "country_code": {
+                  "95.0": 1.0
+                },
+                "name": {
+                  "95.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "95.0": 1.0
+                },
+                "name": {
+                  "95.0": 1.0
+                }
+              },
+              "name": {
+                "95.0": 1.0
+              },
+              "id": {
+                "95.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "95.0": 1.0
+              },
+              "number": {
+                "95.0": 1.0
+              }
+            },
+            "scheduled": {
+              "95.0": 1.0
+            },
+            "id": {
+              "95.0": 1.0
+            },
+            "start_time_tbd": {
+              "95.0": 1.0
+            },
+            "replaced_by": {
+              "1.0": 0.010526315789473684
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "285.0": 1.0
+                },
+                "probability": {
+                  "285.0": 1.0
+                }
+              },
+              "name": {
+                "95.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "95.0": 1.0
+          },
+          "generated_at": {
+            "95.0": 1.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4488",
+    "name": "Первая Лига 2012",
+    "start_date": "2012-04-10",
+    "end_date": "2013-05-14",
+    "year": "12/13",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "360.0": 1.0
+              },
+              "name": {
+                "360.0": 1.0
+              },
+              "country": {
+                "360.0": 1.0
+              },
+              "abbreviation": {
+                "360.0": 1.0
+              },
+              "country_code": {
+                "360.0": 1.0
+              },
+              "id": {
+                "360.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "180.0": 1.0
+              },
+              "end_date": {
+                "180.0": 1.0
+              },
+              "year": {
+                "180.0": 1.0
+              },
+              "id": {
+                "180.0": 1.0
+              },
+              "name": {
+                "180.0": 1.0
+              },
+              "start_date": {
+                "180.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "180.0": 1.0
+                },
+                "country_code": {
+                  "180.0": 1.0
+                },
+                "name": {
+                  "180.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "180.0": 1.0
+                },
+                "name": {
+                  "180.0": 1.0
+                }
+              },
+              "name": {
+                "180.0": 1.0
+              },
+              "id": {
+                "180.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "180.0": 1.0
+              },
+              "number": {
+                "180.0": 1.0
+              }
+            },
+            "scheduled": {
+              "180.0": 1.0
+            },
+            "id": {
+              "180.0": 1.0
+            },
+            "start_time_tbd": {
+              "180.0": 1.0
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "341.0": 1.0
+              },
+              "away_score": {
+                "341.0": 1.0
+              },
+              "home_score": {
+                "341.0": 1.0
+              },
+              "number": {
+                "341.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "19.0": 0.10555555555555556
+            },
+            "status": {
+              "180.0": 1.0
+            },
+            "home_score": {
+              "180.0": 1.0
+            },
+            "away_score": {
+              "180.0": 1.0
+            },
+            "winner_id": {
+              "151.0": 0.8388888888888889
+            }
+          },
+          "schema": {
+            "180.0": 1.0
+          },
+          "generated_at": {
+            "180.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "360.0": 1.0
+              },
+              "name": {
+                "360.0": 1.0
+              },
+              "country": {
+                "360.0": 1.0
+              },
+              "abbreviation": {
+                "360.0": 1.0
+              },
+              "country_code": {
+                "360.0": 1.0
+              },
+              "id": {
+                "360.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "180.0": 1.0
+              },
+              "end_date": {
+                "180.0": 1.0
+              },
+              "year": {
+                "180.0": 1.0
+              },
+              "id": {
+                "180.0": 1.0
+              },
+              "name": {
+                "180.0": 1.0
+              },
+              "start_date": {
+                "180.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "180.0": 1.0
+                },
+                "country_code": {
+                  "180.0": 1.0
+                },
+                "name": {
+                  "180.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "180.0": 1.0
+                },
+                "name": {
+                  "180.0": 1.0
+                }
+              },
+              "name": {
+                "180.0": 1.0
+              },
+              "id": {
+                "180.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "180.0": 1.0
+              },
+              "number": {
+                "180.0": 1.0
+              }
+            },
+            "scheduled": {
+              "180.0": 1.0
+            },
+            "id": {
+              "180.0": 1.0
+            },
+            "start_time_tbd": {
+              "180.0": 1.0
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "341.0": 1.0
+              },
+              "away_score": {
+                "341.0": 1.0
+              },
+              "home_score": {
+                "341.0": 1.0
+              },
+              "number": {
+                "341.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "19.0": 0.10555555555555556
+            },
+            "status": {
+              "180.0": 1.0
+            },
+            "home_score": {
+              "180.0": 1.0
+            },
+            "away_score": {
+              "180.0": 1.0
+            },
+            "winner_id": {
+              "151.0": 0.8388888888888889
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "180.0": 1.0
+              }
+            },
+            "level": {
+              "180.0": 1.0
+            },
+            "live_coverage": {
+              "180.0": 1.0
+            }
+          },
+          "schema": {
+            "180.0": 1.0
+          },
+          "generated_at": {
+            "180.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {}
+      }
+    }
+  },
+  {
+    "id": "10984",
+    "name": "Первая Лига 15/16",
+    "start_date": "2015-08-03",
+    "end_date": "2016-06-06",
+    "year": "15/16",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "230.0": 1.0
+              },
+              "country_code": {
+                "230.0": 1.0
+              },
+              "id": {
+                "230.0": 1.0
+              },
+              "qualifier": {
+                "230.0": 1.0
+              },
+              "country": {
+                "230.0": 1.0
+              },
+              "abbreviation": {
+                "230.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "101.0": 1.0
+              },
+              "city_name": {
+                "101.0": 1.0
+              },
+              "map_coordinates": {
+                "101.0": 1.0
+              },
+              "name": {
+                "101.0": 1.0
+              },
+              "capacity": {
+                "101.0": 1.0
+              },
+              "country_code": {
+                "101.0": 1.0
+              },
+              "country_name": {
+                "101.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "country_code": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "tournament_id": {
+                "115.0": 1.0
+              },
+              "end_date": {
+                "115.0": 1.0
+              },
+              "start_date": {
+                "115.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "115.0": 1.0
+              },
+              "type": {
+                "115.0": 1.0
+              }
+            },
+            "scheduled": {
+              "115.0": 1.0
+            },
+            "start_time_tbd": {
+              "115.0": 1.0
+            },
+            "id": {
+              "115.0": 1.0
+            },
+            "replaced_by": {
+              "3.0": 0.02608695652173913
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "101.0": 1.0
+              },
+              "capacity": {
+                "101.0": 1.0
+              },
+              "map_coordinates": {
+                "101.0": 1.0
+              },
+              "name": {
+                "101.0": 1.0
+              },
+              "city_name": {
+                "101.0": 1.0
+              },
+              "country_code": {
+                "101.0": 1.0
+              },
+              "country_name": {
+                "101.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "210.0": 1.0
+              },
+              "type": {
+                "210.0": 1.0
+              },
+              "away_score": {
+                "210.0": 1.0
+              },
+              "number": {
+                "210.0": 1.0
+              }
+            },
+            "status": {
+              "115.0": 1.0
+            },
+            "home_score": {
+              "112.0": 0.9739130434782609
+            },
+            "away_score": {
+              "112.0": 0.9739130434782609
+            },
+            "decided_by_fed": {
+              "13.0": 0.11304347826086956
+            },
+            "winner_id": {
+              "100.0": 0.8695652173913043
+            }
+          },
+          "generated_at": {
+            "115.0": 1.0
+          },
+          "schema": {
+            "115.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "230.0": 1.0
+              },
+              "country_code": {
+                "230.0": 1.0
+              },
+              "id": {
+                "230.0": 1.0
+              },
+              "qualifier": {
+                "230.0": 1.0
+              },
+              "country": {
+                "230.0": 1.0
+              },
+              "abbreviation": {
+                "230.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "101.0": 1.0
+              },
+              "city_name": {
+                "101.0": 1.0
+              },
+              "map_coordinates": {
+                "101.0": 1.0
+              },
+              "name": {
+                "101.0": 1.0
+              },
+              "capacity": {
+                "101.0": 1.0
+              },
+              "country_code": {
+                "101.0": 1.0
+              },
+              "country_name": {
+                "101.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "country_code": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "tournament_id": {
+                "115.0": 1.0
+              },
+              "end_date": {
+                "115.0": 1.0
+              },
+              "start_date": {
+                "115.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "115.0": 1.0
+              },
+              "type": {
+                "115.0": 1.0
+              }
+            },
+            "scheduled": {
+              "115.0": 1.0
+            },
+            "start_time_tbd": {
+              "115.0": 1.0
+            },
+            "id": {
+              "115.0": 1.0
+            },
+            "replaced_by": {
+              "3.0": 0.02608695652173913
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "101.0": 1.0
+              },
+              "capacity": {
+                "101.0": 1.0
+              },
+              "map_coordinates": {
+                "101.0": 1.0
+              },
+              "name": {
+                "101.0": 1.0
+              },
+              "city_name": {
+                "101.0": 1.0
+              },
+              "country_code": {
+                "101.0": 1.0
+              },
+              "country_name": {
+                "101.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "210.0": 1.0
+              },
+              "type": {
+                "210.0": 1.0
+              },
+              "away_score": {
+                "210.0": 1.0
+              },
+              "number": {
+                "210.0": 1.0
+              }
+            },
+            "status": {
+              "115.0": 1.0
+            },
+            "home_score": {
+              "112.0": 0.9739130434782609
+            },
+            "away_score": {
+              "112.0": 0.9739130434782609
+            },
+            "decided_by_fed": {
+              "13.0": 0.11304347826086956
+            },
+            "winner_id": {
+              "100.0": 0.8695652173913043
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "115.0": 1.0
+              }
+            },
+            "level": {
+              "115.0": 1.0
+            },
+            "live_coverage": {
+              "115.0": 1.0
+            }
+          },
+          "generated_at": {
+            "115.0": 1.0
+          },
+          "schema": {
+            "115.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "192.0": 1.0
+              },
+              "name": {
+                "192.0": 1.0
+              },
+              "country": {
+                "192.0": 1.0
+              },
+              "abbreviation": {
+                "192.0": 1.0
+              },
+              "country_code": {
+                "192.0": 1.0
+              },
+              "id": {
+                "192.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "96.0": 1.0
+              },
+              "end_date": {
+                "96.0": 1.0
+              },
+              "year": {
+                "96.0": 1.0
+              },
+              "id": {
+                "96.0": 1.0
+              },
+              "name": {
+                "96.0": 1.0
+              },
+              "start_date": {
+                "96.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "92.0": 1.0
+              },
+              "id": {
+                "92.0": 1.0
+              },
+              "capacity": {
+                "92.0": 1.0
+              },
+              "country_code": {
+                "92.0": 1.0
+              },
+              "city_name": {
+                "92.0": 1.0
+              },
+              "country_name": {
+                "92.0": 1.0
+              },
+              "map_coordinates": {
+                "92.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "96.0": 1.0
+                },
+                "country_code": {
+                  "96.0": 1.0
+                },
+                "name": {
+                  "96.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "96.0": 1.0
+                },
+                "name": {
+                  "96.0": 1.0
+                }
+              },
+              "name": {
+                "96.0": 1.0
+              },
+              "id": {
+                "96.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "96.0": 1.0
+              },
+              "number": {
+                "96.0": 1.0
+              }
+            },
+            "scheduled": {
+              "96.0": 1.0
+            },
+            "id": {
+              "96.0": 1.0
+            },
+            "start_time_tbd": {
+              "96.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.020833333333333332
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "288.0": 1.0
+                },
+                "probability": {
+                  "288.0": 1.0
+                }
+              },
+              "name": {
+                "96.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "96.0": 1.0
+          },
+          "generated_at": {
+            "96.0": 1.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "42888",
+    "name": "Первая Лига 17/18",
+    "start_date": "2017-08-05",
+    "end_date": "2018-05-31",
+    "year": "17/18",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "286.0": 1.0
+              },
+              "country_code": {
+                "286.0": 1.0
+              },
+              "id": {
+                "286.0": 1.0
+              },
+              "qualifier": {
+                "286.0": 1.0
+              },
+              "country": {
+                "286.0": 1.0
+              },
+              "abbreviation": {
+                "286.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "124.0": 1.0
+              },
+              "city_name": {
+                "124.0": 1.0
+              },
+              "map_coordinates": {
+                "106.0": 0.8548387096774194
+              },
+              "name": {
+                "124.0": 1.0
+              },
+              "capacity": {
+                "124.0": 1.0
+              },
+              "country_code": {
+                "124.0": 1.0
+              },
+              "country_name": {
+                "124.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "143.0": 1.0
+                },
+                "country_code": {
+                  "143.0": 1.0
+                },
+                "name": {
+                  "143.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "143.0": 1.0
+                },
+                "name": {
+                  "143.0": 1.0
+                }
+              },
+              "name": {
+                "143.0": 1.0
+              },
+              "id": {
+                "143.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "143.0": 1.0
+              },
+              "id": {
+                "143.0": 1.0
+              },
+              "name": {
+                "143.0": 1.0
+              },
+              "tournament_id": {
+                "143.0": 1.0
+              },
+              "end_date": {
+                "143.0": 1.0
+              },
+              "start_date": {
+                "143.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "phase": {
+                "143.0": 1.0
+              },
+              "number": {
+                "143.0": 1.0
+              },
+              "type": {
+                "143.0": 1.0
+              }
+            },
+            "scheduled": {
+              "143.0": 1.0
+            },
+            "start_time_tbd": {
+              "143.0": 1.0
+            },
+            "id": {
+              "143.0": 1.0
+            },
+            "replaced_by": {
+              "8.0": 0.055944055944055944
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "124.0": 1.0
+              },
+              "capacity": {
+                "124.0": 1.0
+              },
+              "map_coordinates": {
+                "106.0": 0.8548387096774194
+              },
+              "name": {
+                "124.0": 1.0
+              },
+              "city_name": {
+                "124.0": 1.0
+              },
+              "country_code": {
+                "124.0": 1.0
+              },
+              "country_name": {
+                "124.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "268.0": 1.0
+              },
+              "type": {
+                "268.0": 1.0
+              },
+              "away_score": {
+                "268.0": 1.0
+              },
+              "number": {
+                "268.0": 1.0
+              }
+            },
+            "status": {
+              "143.0": 1.0
+            },
+            "home_score": {
+              "135.0": 0.9440559440559441
+            },
+            "away_score": {
+              "135.0": 0.9440559440559441
+            },
+            "decided_by_fed": {
+              "2.0": 0.013986013986013986
+            },
+            "winner_id": {
+              "120.0": 0.8391608391608392
+            }
+          },
+          "generated_at": {
+            "143.0": 1.0
+          },
+          "schema": {
+            "143.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "286.0": 1.0
+              },
+              "country_code": {
+                "286.0": 1.0
+              },
+              "id": {
+                "286.0": 1.0
+              },
+              "qualifier": {
+                "286.0": 1.0
+              },
+              "country": {
+                "286.0": 1.0
+              },
+              "abbreviation": {
+                "286.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "124.0": 1.0
+              },
+              "city_name": {
+                "124.0": 1.0
+              },
+              "map_coordinates": {
+                "106.0": 0.8548387096774194
+              },
+              "name": {
+                "124.0": 1.0
+              },
+              "capacity": {
+                "124.0": 1.0
+              },
+              "country_code": {
+                "124.0": 1.0
+              },
+              "country_name": {
+                "124.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "143.0": 1.0
+                },
+                "country_code": {
+                  "143.0": 1.0
+                },
+                "name": {
+                  "143.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "143.0": 1.0
+                },
+                "name": {
+                  "143.0": 1.0
+                }
+              },
+              "name": {
+                "143.0": 1.0
+              },
+              "id": {
+                "143.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "143.0": 1.0
+              },
+              "id": {
+                "143.0": 1.0
+              },
+              "name": {
+                "143.0": 1.0
+              },
+              "tournament_id": {
+                "143.0": 1.0
+              },
+              "end_date": {
+                "143.0": 1.0
+              },
+              "start_date": {
+                "143.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "phase": {
+                "143.0": 1.0
+              },
+              "number": {
+                "143.0": 1.0
+              },
+              "type": {
+                "143.0": 1.0
+              }
+            },
+            "scheduled": {
+              "143.0": 1.0
+            },
+            "start_time_tbd": {
+              "143.0": 1.0
+            },
+            "id": {
+              "143.0": 1.0
+            },
+            "replaced_by": {
+              "8.0": 0.055944055944055944
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "124.0": 1.0
+              },
+              "capacity": {
+                "124.0": 1.0
+              },
+              "map_coordinates": {
+                "106.0": 0.8548387096774194
+              },
+              "name": {
+                "124.0": 1.0
+              },
+              "city_name": {
+                "124.0": 1.0
+              },
+              "country_code": {
+                "124.0": 1.0
+              },
+              "country_name": {
+                "124.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "268.0": 1.0
+              },
+              "type": {
+                "268.0": 1.0
+              },
+              "away_score": {
+                "268.0": 1.0
+              },
+              "number": {
+                "268.0": 1.0
+              }
+            },
+            "status": {
+              "143.0": 1.0
+            },
+            "home_score": {
+              "135.0": 0.9440559440559441
+            },
+            "away_score": {
+              "135.0": 0.9440559440559441
+            },
+            "decided_by_fed": {
+              "2.0": 0.013986013986013986
+            },
+            "winner_id": {
+              "120.0": 0.8391608391608392
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "143.0": 1.0
+              }
+            },
+            "level": {
+              "143.0": 1.0
+            },
+            "live_coverage": {
+              "143.0": 1.0
+            }
+          },
+          "generated_at": {
+            "143.0": 1.0
+          },
+          "schema": {
+            "143.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "250.0": 1.0
+              },
+              "name": {
+                "250.0": 1.0
+              },
+              "country": {
+                "250.0": 1.0
+              },
+              "abbreviation": {
+                "250.0": 1.0
+              },
+              "country_code": {
+                "250.0": 1.0
+              },
+              "id": {
+                "250.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "125.0": 1.0
+              },
+              "end_date": {
+                "125.0": 1.0
+              },
+              "year": {
+                "125.0": 1.0
+              },
+              "id": {
+                "125.0": 1.0
+              },
+              "name": {
+                "125.0": 1.0
+              },
+              "start_date": {
+                "125.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "111.0": 1.0
+              },
+              "id": {
+                "111.0": 1.0
+              },
+              "capacity": {
+                "111.0": 1.0
+              },
+              "country_code": {
+                "111.0": 1.0
+              },
+              "city_name": {
+                "111.0": 1.0
+              },
+              "country_name": {
+                "111.0": 1.0
+              },
+              "map_coordinates": {
+                "94.0": 0.8468468468468469
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "125.0": 1.0
+                },
+                "country_code": {
+                  "125.0": 1.0
+                },
+                "name": {
+                  "125.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "125.0": 1.0
+                },
+                "name": {
+                  "125.0": 1.0
+                }
+              },
+              "name": {
+                "125.0": 1.0
+              },
+              "id": {
+                "125.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "125.0": 1.0
+              },
+              "number": {
+                "125.0": 1.0
+              }
+            },
+            "scheduled": {
+              "125.0": 1.0
+            },
+            "id": {
+              "125.0": 1.0
+            },
+            "start_time_tbd": {
+              "125.0": 1.0
+            },
+            "replaced_by": {
+              "1.0": 0.008
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "375.0": 1.0
+                },
+                "probability": {
+                  "375.0": 1.0
+                }
+              },
+              "name": {
+                "125.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "125.0": 1.0
+          },
+          "generated_at": {
+            "125.0": 1.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "33769",
+    "name": "Первая Лига 16/17",
+    "start_date": "2016-08-08",
+    "end_date": "2017-05-31",
+    "year": "16/17",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "228.0": 1.0
+              },
+              "country_code": {
+                "228.0": 1.0
+              },
+              "id": {
+                "228.0": 1.0
+              },
+              "qualifier": {
+                "228.0": 1.0
+              },
+              "country": {
+                "228.0": 1.0
+              },
+              "abbreviation": {
+                "228.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "97.0": 1.0
+              },
+              "city_name": {
+                "97.0": 1.0
+              },
+              "map_coordinates": {
+                "97.0": 1.0
+              },
+              "name": {
+                "97.0": 1.0
+              },
+              "capacity": {
+                "97.0": 1.0
+              },
+              "country_code": {
+                "97.0": 1.0
+              },
+              "country_name": {
+                "97.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "114.0": 1.0
+                },
+                "country_code": {
+                  "114.0": 1.0
+                },
+                "name": {
+                  "114.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "114.0": 1.0
+                },
+                "name": {
+                  "114.0": 1.0
+                }
+              },
+              "name": {
+                "114.0": 1.0
+              },
+              "id": {
+                "114.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "114.0": 1.0
+              },
+              "id": {
+                "114.0": 1.0
+              },
+              "name": {
+                "114.0": 1.0
+              },
+              "tournament_id": {
+                "114.0": 1.0
+              },
+              "end_date": {
+                "114.0": 1.0
+              },
+              "start_date": {
+                "114.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "114.0": 1.0
+              },
+              "type": {
+                "114.0": 1.0
+              }
+            },
+            "scheduled": {
+              "114.0": 1.0
+            },
+            "start_time_tbd": {
+              "114.0": 1.0
+            },
+            "id": {
+              "114.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.017543859649122806
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "97.0": 1.0
+              },
+              "capacity": {
+                "97.0": 1.0
+              },
+              "map_coordinates": {
+                "97.0": 1.0
+              },
+              "name": {
+                "97.0": 1.0
+              },
+              "city_name": {
+                "97.0": 1.0
+              },
+              "country_code": {
+                "97.0": 1.0
+              },
+              "country_name": {
+                "97.0": 1.0
+              }
+            },
+            "weather_info": {
+              "weather_conditions": {
+                "1.0": 1.0
+              },
+              "pitch": {
+                "1.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "201.0": 1.0
+              },
+              "type": {
+                "201.0": 1.0
+              },
+              "away_score": {
+                "201.0": 1.0
+              },
+              "number": {
+                "201.0": 1.0
+              }
+            },
+            "status": {
+              "114.0": 1.0
+            },
+            "home_score": {
+              "110.0": 0.9649122807017544
+            },
+            "away_score": {
+              "110.0": 0.9649122807017544
+            },
+            "decided_by_fed": {
+              "19.0": 0.16666666666666666
+            },
+            "winner_id": {
+              "91.0": 0.7982456140350878
+            }
+          },
+          "generated_at": {
+            "114.0": 1.0
+          },
+          "schema": {
+            "114.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "228.0": 1.0
+              },
+              "country_code": {
+                "228.0": 1.0
+              },
+              "id": {
+                "228.0": 1.0
+              },
+              "qualifier": {
+                "228.0": 1.0
+              },
+              "country": {
+                "228.0": 1.0
+              },
+              "abbreviation": {
+                "228.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "97.0": 1.0
+              },
+              "city_name": {
+                "97.0": 1.0
+              },
+              "map_coordinates": {
+                "97.0": 1.0
+              },
+              "name": {
+                "97.0": 1.0
+              },
+              "capacity": {
+                "97.0": 1.0
+              },
+              "country_code": {
+                "97.0": 1.0
+              },
+              "country_name": {
+                "97.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "114.0": 1.0
+                },
+                "country_code": {
+                  "114.0": 1.0
+                },
+                "name": {
+                  "114.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "114.0": 1.0
+                },
+                "name": {
+                  "114.0": 1.0
+                }
+              },
+              "name": {
+                "114.0": 1.0
+              },
+              "id": {
+                "114.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "114.0": 1.0
+              },
+              "id": {
+                "114.0": 1.0
+              },
+              "name": {
+                "114.0": 1.0
+              },
+              "tournament_id": {
+                "114.0": 1.0
+              },
+              "end_date": {
+                "114.0": 1.0
+              },
+              "start_date": {
+                "114.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "114.0": 1.0
+              },
+              "type": {
+                "114.0": 1.0
+              }
+            },
+            "scheduled": {
+              "114.0": 1.0
+            },
+            "start_time_tbd": {
+              "114.0": 1.0
+            },
+            "id": {
+              "114.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.017543859649122806
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "97.0": 1.0
+              },
+              "capacity": {
+                "97.0": 1.0
+              },
+              "map_coordinates": {
+                "97.0": 1.0
+              },
+              "name": {
+                "97.0": 1.0
+              },
+              "city_name": {
+                "97.0": 1.0
+              },
+              "country_code": {
+                "97.0": 1.0
+              },
+              "country_name": {
+                "97.0": 1.0
+              }
+            },
+            "weather_info": {
+              "weather_conditions": {
+                "1.0": 1.0
+              },
+              "pitch": {
+                "1.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "201.0": 1.0
+              },
+              "type": {
+                "201.0": 1.0
+              },
+              "away_score": {
+                "201.0": 1.0
+              },
+              "number": {
+                "201.0": 1.0
+              }
+            },
+            "status": {
+              "114.0": 1.0
+            },
+            "home_score": {
+              "110.0": 0.9649122807017544
+            },
+            "away_score": {
+              "110.0": 0.9649122807017544
+            },
+            "decided_by_fed": {
+              "19.0": 0.16666666666666666
+            },
+            "winner_id": {
+              "91.0": 0.7982456140350878
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "114.0": 1.0
+              }
+            },
+            "level": {
+              "114.0": 1.0
+            },
+            "live_coverage": {
+              "114.0": 1.0
+            }
+          },
+          "generated_at": {
+            "114.0": 1.0
+          },
+          "schema": {
+            "114.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "148.0": 1.0
+              },
+              "name": {
+                "148.0": 1.0
+              },
+              "country": {
+                "148.0": 1.0
+              },
+              "abbreviation": {
+                "148.0": 1.0
+              },
+              "country_code": {
+                "148.0": 1.0
+              },
+              "id": {
+                "148.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "74.0": 1.0
+              },
+              "end_date": {
+                "74.0": 1.0
+              },
+              "year": {
+                "74.0": 1.0
+              },
+              "id": {
+                "74.0": 1.0
+              },
+              "name": {
+                "74.0": 1.0
+              },
+              "start_date": {
+                "74.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "66.0": 1.0
+              },
+              "id": {
+                "66.0": 1.0
+              },
+              "capacity": {
+                "66.0": 1.0
+              },
+              "country_code": {
+                "66.0": 1.0
+              },
+              "city_name": {
+                "66.0": 1.0
+              },
+              "country_name": {
+                "66.0": 1.0
+              },
+              "map_coordinates": {
+                "66.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "74.0": 1.0
+                },
+                "country_code": {
+                  "74.0": 1.0
+                },
+                "name": {
+                  "74.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "74.0": 1.0
+                },
+                "name": {
+                  "74.0": 1.0
+                }
+              },
+              "name": {
+                "74.0": 1.0
+              },
+              "id": {
+                "74.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "74.0": 1.0
+              },
+              "number": {
+                "74.0": 1.0
+              }
+            },
+            "scheduled": {
+              "74.0": 1.0
+            },
+            "id": {
+              "74.0": 1.0
+            },
+            "start_time_tbd": {
+              "74.0": 1.0
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "222.0": 1.0
+                },
+                "probability": {
+                  "222.0": 1.0
+                }
+              },
+              "name": {
+                "74.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "74.0": 1.0
+          },
+          "generated_at": {
+            "74.0": 1.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "56395",
+    "name": "Первая Лига 18/19",
+    "start_date": "2018-08-06",
+    "end_date": "2019-06-14",
+    "year": "18/19",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "408.0": 1.0
+              },
+              "country_code": {
+                "408.0": 1.0
+              },
+              "id": {
+                "408.0": 1.0
+              },
+              "qualifier": {
+                "408.0": 1.0
+              },
+              "country": {
+                "408.0": 1.0
+              },
+              "abbreviation": {
+                "408.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "133.0": 1.0
+              },
+              "city_name": {
+                "133.0": 1.0
+              },
+              "map_coordinates": {
+                "117.0": 0.8796992481203008
+              },
+              "name": {
+                "133.0": 1.0
+              },
+              "capacity": {
+                "133.0": 1.0
+              },
+              "country_code": {
+                "133.0": 1.0
+              },
+              "country_name": {
+                "133.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "204.0": 1.0
+                },
+                "country_code": {
+                  "204.0": 1.0
+                },
+                "name": {
+                  "204.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "204.0": 1.0
+                },
+                "name": {
+                  "204.0": 1.0
+                }
+              },
+              "name": {
+                "204.0": 1.0
+              },
+              "id": {
+                "204.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "204.0": 1.0
+              },
+              "id": {
+                "204.0": 1.0
+              },
+              "name": {
+                "204.0": 1.0
+              },
+              "tournament_id": {
+                "204.0": 1.0
+              },
+              "end_date": {
+                "204.0": 1.0
+              },
+              "start_date": {
+                "204.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "phase": {
+                "204.0": 1.0
+              },
+              "number": {
+                "204.0": 1.0
+              },
+              "type": {
+                "204.0": 1.0
+              }
+            },
+            "scheduled": {
+              "204.0": 1.0
+            },
+            "start_time_tbd": {
+              "204.0": 1.0
+            },
+            "id": {
+              "204.0": 1.0
+            },
+            "replaced_by": {
+              "6.0": 0.029411764705882353
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "133.0": 1.0
+              },
+              "capacity": {
+                "133.0": 1.0
+              },
+              "map_coordinates": {
+                "117.0": 0.8796992481203008
+              },
+              "name": {
+                "133.0": 1.0
+              },
+              "city_name": {
+                "133.0": 1.0
+              },
+              "country_code": {
+                "133.0": 1.0
+              },
+              "country_name": {
+                "133.0": 1.0
+              }
+            },
+            "weather_info": {
+              "weather_conditions": {
+                "39.0": 1.0
+              },
+              "pitch": {
+                "39.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "379.0": 1.0
+              },
+              "type": {
+                "379.0": 1.0
+              },
+              "away_score": {
+                "379.0": 1.0
+              },
+              "number": {
+                "379.0": 1.0
+              }
+            },
+            "status": {
+              "204.0": 1.0
+            },
+            "home_score": {
+              "197.0": 0.9656862745098039
+            },
+            "away_score": {
+              "197.0": 0.9656862745098039
+            },
+            "decided_by_fed": {
+              "17.0": 0.08333333333333333
+            },
+            "winner_id": {
+              "161.0": 0.7892156862745098
+            }
+          },
+          "generated_at": {
+            "204.0": 1.0
+          },
+          "schema": {
+            "204.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "408.0": 1.0
+              },
+              "country_code": {
+                "408.0": 1.0
+              },
+              "id": {
+                "408.0": 1.0
+              },
+              "qualifier": {
+                "408.0": 1.0
+              },
+              "country": {
+                "408.0": 1.0
+              },
+              "abbreviation": {
+                "408.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "133.0": 1.0
+              },
+              "city_name": {
+                "133.0": 1.0
+              },
+              "map_coordinates": {
+                "117.0": 0.8796992481203008
+              },
+              "name": {
+                "133.0": 1.0
+              },
+              "capacity": {
+                "133.0": 1.0
+              },
+              "country_code": {
+                "133.0": 1.0
+              },
+              "country_name": {
+                "133.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "204.0": 1.0
+                },
+                "country_code": {
+                  "204.0": 1.0
+                },
+                "name": {
+                  "204.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "204.0": 1.0
+                },
+                "name": {
+                  "204.0": 1.0
+                }
+              },
+              "name": {
+                "204.0": 1.0
+              },
+              "id": {
+                "204.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "204.0": 1.0
+              },
+              "id": {
+                "204.0": 1.0
+              },
+              "name": {
+                "204.0": 1.0
+              },
+              "tournament_id": {
+                "204.0": 1.0
+              },
+              "end_date": {
+                "204.0": 1.0
+              },
+              "start_date": {
+                "204.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "phase": {
+                "204.0": 1.0
+              },
+              "number": {
+                "204.0": 1.0
+              },
+              "type": {
+                "204.0": 1.0
+              }
+            },
+            "scheduled": {
+              "204.0": 1.0
+            },
+            "start_time_tbd": {
+              "204.0": 1.0
+            },
+            "id": {
+              "204.0": 1.0
+            },
+            "replaced_by": {
+              "6.0": 0.029411764705882353
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "133.0": 1.0
+              },
+              "capacity": {
+                "133.0": 1.0
+              },
+              "map_coordinates": {
+                "117.0": 0.8796992481203008
+              },
+              "name": {
+                "133.0": 1.0
+              },
+              "city_name": {
+                "133.0": 1.0
+              },
+              "country_code": {
+                "133.0": 1.0
+              },
+              "country_name": {
+                "133.0": 1.0
+              }
+            },
+            "weather_info": {
+              "weather_conditions": {
+                "39.0": 1.0
+              },
+              "pitch": {
+                "39.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "379.0": 1.0
+              },
+              "type": {
+                "379.0": 1.0
+              },
+              "away_score": {
+                "379.0": 1.0
+              },
+              "number": {
+                "379.0": 1.0
+              }
+            },
+            "ball_locations": {
+              "x": {
+                "140.0": 1.0
+              },
+              "y": {
+                "140.0": 1.0
+              },
+              "team": {
+                "140.0": 1.0
+              }
+            },
+            "status": {
+              "204.0": 1.0
+            },
+            "home_score": {
+              "197.0": 0.9656862745098039
+            },
+            "away_score": {
+              "197.0": 0.9656862745098039
+            },
+            "decided_by_fed": {
+              "17.0": 0.08333333333333333
+            },
+            "winner_id": {
+              "161.0": 0.7892156862745098
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "204.0": 1.0
+              }
+            },
+            "level": {
+              "204.0": 1.0
+            },
+            "live_coverage": {
+              "204.0": 1.0
+            }
+          },
+          "generated_at": {
+            "204.0": 1.0
+          },
+          "schema": {
+            "204.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "278.0": 1.0
+              },
+              "name": {
+                "278.0": 1.0
+              },
+              "country": {
+                "278.0": 1.0
+              },
+              "abbreviation": {
+                "278.0": 1.0
+              },
+              "country_code": {
+                "278.0": 1.0
+              },
+              "id": {
+                "278.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "139.0": 1.0
+              },
+              "end_date": {
+                "139.0": 1.0
+              },
+              "year": {
+                "139.0": 1.0
+              },
+              "id": {
+                "139.0": 1.0
+              },
+              "name": {
+                "139.0": 1.0
+              },
+              "start_date": {
+                "139.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "90.0": 1.0
+              },
+              "id": {
+                "90.0": 1.0
+              },
+              "capacity": {
+                "90.0": 1.0
+              },
+              "country_code": {
+                "90.0": 1.0
+              },
+              "city_name": {
+                "90.0": 1.0
+              },
+              "country_name": {
+                "90.0": 1.0
+              },
+              "map_coordinates": {
+                "79.0": 0.8777777777777778
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "139.0": 1.0
+                },
+                "country_code": {
+                  "139.0": 1.0
+                },
+                "name": {
+                  "139.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "139.0": 1.0
+                },
+                "name": {
+                  "139.0": 1.0
+                }
+              },
+              "name": {
+                "139.0": 1.0
+              },
+              "id": {
+                "139.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "139.0": 1.0
+              },
+              "number": {
+                "139.0": 1.0
+              }
+            },
+            "scheduled": {
+              "139.0": 1.0
+            },
+            "id": {
+              "139.0": 1.0
+            },
+            "start_time_tbd": {
+              "139.0": 1.0
+            },
+            "replaced_by": {
+              "3.0": 0.02158273381294964
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "417.0": 1.0
+                },
+                "probability": {
+                  "417.0": 1.0
+                }
+              },
+              "name": {
+                "139.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "139.0": 1.0
+          },
+          "generated_at": {
+            "139.0": 1.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2686",
+    "name": "Первая Лига 2010",
+    "start_date": "2010-04-09",
+    "end_date": "2010-11-14",
+    "year": "2010",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "230.0": 1.0
+              },
+              "name": {
+                "230.0": 1.0
+              },
+              "country": {
+                "230.0": 1.0
+              },
+              "abbreviation": {
+                "230.0": 1.0
+              },
+              "country_code": {
+                "230.0": 1.0
+              },
+              "id": {
+                "230.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "115.0": 1.0
+              },
+              "end_date": {
+                "115.0": 1.0
+              },
+              "year": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "start_date": {
+                "115.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "country_code": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "115.0": 1.0
+              },
+              "number": {
+                "115.0": 1.0
+              }
+            },
+            "scheduled": {
+              "115.0": 1.0
+            },
+            "id": {
+              "115.0": 1.0
+            },
+            "start_time_tbd": {
+              "115.0": 1.0
+            },
+            "replaced_by": {
+              "7.0": 0.06086956521739131
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "215.0": 1.0
+              },
+              "away_score": {
+                "215.0": 1.0
+              },
+              "home_score": {
+                "215.0": 1.0
+              },
+              "number": {
+                "215.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "1.0": 0.008695652173913044
+            },
+            "status": {
+              "115.0": 1.0
+            },
+            "home_score": {
+              "108.0": 0.9391304347826087
+            },
+            "away_score": {
+              "108.0": 0.9391304347826087
+            },
+            "winner_id": {
+              "91.0": 0.7913043478260869
+            }
+          },
+          "schema": {
+            "115.0": 1.0
+          },
+          "generated_at": {
+            "115.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "230.0": 1.0
+              },
+              "name": {
+                "230.0": 1.0
+              },
+              "country": {
+                "230.0": 1.0
+              },
+              "abbreviation": {
+                "230.0": 1.0
+              },
+              "country_code": {
+                "230.0": 1.0
+              },
+              "id": {
+                "230.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "115.0": 1.0
+              },
+              "end_date": {
+                "115.0": 1.0
+              },
+              "year": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "start_date": {
+                "115.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "country_code": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "115.0": 1.0
+                },
+                "name": {
+                  "115.0": 1.0
+                }
+              },
+              "name": {
+                "115.0": 1.0
+              },
+              "id": {
+                "115.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "115.0": 1.0
+              },
+              "number": {
+                "115.0": 1.0
+              }
+            },
+            "scheduled": {
+              "115.0": 1.0
+            },
+            "id": {
+              "115.0": 1.0
+            },
+            "start_time_tbd": {
+              "115.0": 1.0
+            },
+            "replaced_by": {
+              "7.0": 0.06086956521739131
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "type": {
+                "215.0": 1.0
+              },
+              "away_score": {
+                "215.0": 1.0
+              },
+              "home_score": {
+                "215.0": 1.0
+              },
+              "number": {
+                "215.0": 1.0
+              }
+            },
+            "decided_by_fed": {
+              "1.0": 0.008695652173913044
+            },
+            "status": {
+              "115.0": 1.0
+            },
+            "home_score": {
+              "108.0": 0.9391304347826087
+            },
+            "away_score": {
+              "108.0": 0.9391304347826087
+            },
+            "winner_id": {
+              "91.0": 0.7913043478260869
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "115.0": 1.0
+              }
+            },
+            "level": {
+              "115.0": 1.0
+            },
+            "live_coverage": {
+              "115.0": 1.0
+            }
+          },
+          "schema": {
+            "115.0": 1.0
+          },
+          "generated_at": {
+            "115.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {}
+      }
+    }
+  },
+  {
+    "id": "6671",
+    "name": "Первая Лига 13/14",
+    "start_date": "2013-07-21",
+    "end_date": "2014-06-19",
+    "year": "13/14",
+    "fields": {
+      "Coverage(level=bronze, live=false, basic=true, key=null, detailed=null, lineups=null, commentary=null)": {
+        "summary": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "292.0": 1.0
+              },
+              "country_code": {
+                "292.0": 1.0
+              },
+              "id": {
+                "292.0": 1.0
+              },
+              "qualifier": {
+                "292.0": 1.0
+              },
+              "country": {
+                "292.0": 1.0
+              },
+              "abbreviation": {
+                "292.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "16.0": 1.0
+              },
+              "city_name": {
+                "16.0": 1.0
+              },
+              "map_coordinates": {
+                "16.0": 1.0
+              },
+              "name": {
+                "16.0": 1.0
+              },
+              "capacity": {
+                "16.0": 1.0
+              },
+              "country_code": {
+                "16.0": 1.0
+              },
+              "country_name": {
+                "16.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "146.0": 1.0
+                },
+                "country_code": {
+                  "146.0": 1.0
+                },
+                "name": {
+                  "146.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "146.0": 1.0
+                },
+                "name": {
+                  "146.0": 1.0
+                }
+              },
+              "name": {
+                "146.0": 1.0
+              },
+              "id": {
+                "146.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "146.0": 1.0
+              },
+              "id": {
+                "146.0": 1.0
+              },
+              "name": {
+                "146.0": 1.0
+              },
+              "tournament_id": {
+                "146.0": 1.0
+              },
+              "end_date": {
+                "146.0": 1.0
+              },
+              "start_date": {
+                "146.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "146.0": 1.0
+              },
+              "type": {
+                "146.0": 1.0
+              }
+            },
+            "scheduled": {
+              "146.0": 1.0
+            },
+            "start_time_tbd": {
+              "146.0": 1.0
+            },
+            "id": {
+              "146.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.0136986301369863
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "16.0": 1.0
+              },
+              "capacity": {
+                "16.0": 1.0
+              },
+              "map_coordinates": {
+                "16.0": 1.0
+              },
+              "name": {
+                "16.0": 1.0
+              },
+              "city_name": {
+                "16.0": 1.0
+              },
+              "country_code": {
+                "16.0": 1.0
+              },
+              "country_name": {
+                "16.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "287.0": 1.0
+              },
+              "type": {
+                "287.0": 1.0
+              },
+              "away_score": {
+                "287.0": 1.0
+              },
+              "number": {
+                "287.0": 1.0
+              }
+            },
+            "status": {
+              "146.0": 1.0
+            },
+            "home_score": {
+              "144.0": 0.9863013698630136
+            },
+            "away_score": {
+              "144.0": 0.9863013698630136
+            },
+            "decided_by_fed": {
+              "1.0": 0.00684931506849315
+            },
+            "winner_id": {
+              "115.0": 0.7876712328767124
+            }
+          },
+          "generated_at": {
+            "146.0": 1.0
+          },
+          "schema": {
+            "146.0": 1.0
+          }
+        },
+        "timeline": {
+          "sport_event": {
+            "competitors": {
+              "name": {
+                "292.0": 1.0
+              },
+              "country_code": {
+                "292.0": 1.0
+              },
+              "id": {
+                "292.0": 1.0
+              },
+              "qualifier": {
+                "292.0": 1.0
+              },
+              "country": {
+                "292.0": 1.0
+              },
+              "abbreviation": {
+                "292.0": 1.0
+              }
+            },
+            "venue": {
+              "id": {
+                "16.0": 1.0
+              },
+              "city_name": {
+                "16.0": 1.0
+              },
+              "map_coordinates": {
+                "16.0": 1.0
+              },
+              "name": {
+                "16.0": 1.0
+              },
+              "capacity": {
+                "16.0": 1.0
+              },
+              "country_code": {
+                "16.0": 1.0
+              },
+              "country_name": {
+                "16.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "146.0": 1.0
+                },
+                "country_code": {
+                  "146.0": 1.0
+                },
+                "name": {
+                  "146.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "146.0": 1.0
+                },
+                "name": {
+                  "146.0": 1.0
+                }
+              },
+              "name": {
+                "146.0": 1.0
+              },
+              "id": {
+                "146.0": 1.0
+              }
+            },
+            "season": {
+              "year": {
+                "146.0": 1.0
+              },
+              "id": {
+                "146.0": 1.0
+              },
+              "name": {
+                "146.0": 1.0
+              },
+              "tournament_id": {
+                "146.0": 1.0
+              },
+              "end_date": {
+                "146.0": 1.0
+              },
+              "start_date": {
+                "146.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "number": {
+                "146.0": 1.0
+              },
+              "type": {
+                "146.0": 1.0
+              }
+            },
+            "scheduled": {
+              "146.0": 1.0
+            },
+            "start_time_tbd": {
+              "146.0": 1.0
+            },
+            "id": {
+              "146.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.0136986301369863
+            }
+          },
+          "sport_event_conditions": {
+            "venue": {
+              "id": {
+                "16.0": 1.0
+              },
+              "capacity": {
+                "16.0": 1.0
+              },
+              "map_coordinates": {
+                "16.0": 1.0
+              },
+              "name": {
+                "16.0": 1.0
+              },
+              "city_name": {
+                "16.0": 1.0
+              },
+              "country_code": {
+                "16.0": 1.0
+              },
+              "country_name": {
+                "16.0": 1.0
+              }
+            }
+          },
+          "sport_event_status": {
+            "period_scores": {
+              "home_score": {
+                "287.0": 1.0
+              },
+              "type": {
+                "287.0": 1.0
+              },
+              "away_score": {
+                "287.0": 1.0
+              },
+              "number": {
+                "287.0": 1.0
+              }
+            },
+            "status": {
+              "146.0": 1.0
+            },
+            "home_score": {
+              "144.0": 0.9863013698630136
+            },
+            "away_score": {
+              "144.0": 0.9863013698630136
+            },
+            "decided_by_fed": {
+              "1.0": 0.00684931506849315
+            },
+            "winner_id": {
+              "115.0": 0.7876712328767124
+            }
+          },
+          "coverage_info": {
+            "coverage": {
+              "basic_score": {
+                "146.0": 1.0
+              }
+            },
+            "level": {
+              "146.0": 1.0
+            },
+            "live_coverage": {
+              "146.0": 1.0
+            }
+          },
+          "generated_at": {
+            "146.0": 1.0
+          },
+          "schema": {
+            "146.0": 1.0
+          }
+        },
+        "lineups": {},
+        "probabilities": {
+          "sport_event": {
+            "competitors": {
+              "qualifier": {
+                "226.0": 1.0
+              },
+              "name": {
+                "226.0": 1.0
+              },
+              "country": {
+                "226.0": 1.0
+              },
+              "abbreviation": {
+                "226.0": 1.0
+              },
+              "country_code": {
+                "226.0": 1.0
+              },
+              "id": {
+                "226.0": 1.0
+              }
+            },
+            "season": {
+              "tournament_id": {
+                "113.0": 1.0
+              },
+              "end_date": {
+                "113.0": 1.0
+              },
+              "year": {
+                "113.0": 1.0
+              },
+              "id": {
+                "113.0": 1.0
+              },
+              "name": {
+                "113.0": 1.0
+              },
+              "start_date": {
+                "113.0": 1.0
+              }
+            },
+            "venue": {
+              "name": {
+                "2.0": 1.0
+              },
+              "id": {
+                "2.0": 1.0
+              },
+              "capacity": {
+                "2.0": 1.0
+              },
+              "country_code": {
+                "2.0": 1.0
+              },
+              "city_name": {
+                "2.0": 1.0
+              },
+              "country_name": {
+                "2.0": 1.0
+              },
+              "map_coordinates": {
+                "2.0": 1.0
+              }
+            },
+            "tournament": {
+              "category": {
+                "id": {
+                  "113.0": 1.0
+                },
+                "country_code": {
+                  "113.0": 1.0
+                },
+                "name": {
+                  "113.0": 1.0
+                }
+              },
+              "sport": {
+                "id": {
+                  "113.0": 1.0
+                },
+                "name": {
+                  "113.0": 1.0
+                }
+              },
+              "name": {
+                "113.0": 1.0
+              },
+              "id": {
+                "113.0": 1.0
+              }
+            },
+            "tournament_round": {
+              "type": {
+                "113.0": 1.0
+              },
+              "number": {
+                "113.0": 1.0
+              }
+            },
+            "scheduled": {
+              "113.0": 1.0
+            },
+            "id": {
+              "113.0": 1.0
+            },
+            "start_time_tbd": {
+              "113.0": 1.0
+            },
+            "replaced_by": {
+              "2.0": 0.017699115044247787
+            }
+          },
+          "probabilities": {
+            "markets": {
+              "outcomes": {
+                "name": {
+                  "339.0": 1.0
+                },
+                "probability": {
+                  "339.0": 1.0
+                }
+              },
+              "name": {
+                "113.0": 1.0
+              }
+            }
+          },
+          "schema": {
+            "113.0": 1.0
+          },
+          "generated_at": {
+            "113.0": 1.0
+          }
+        }
+      }
+    }
+  }
+]

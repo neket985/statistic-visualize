@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
 import Table from "./Table";
-import matches7 from './matches_7_all.json';
+import matches7 from './matches_7_table.json';
+import matches205 from './matches_205_table.json';
+import matches672 from './matches_672_table.json';
 
 function App() {
 

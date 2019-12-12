@@ -5,8 +5,16 @@ import ReactJson from 'react-json-view'
 class Table extends React.Component {
     constructor(props) {
         super(props);
-        let seasons = this.props.matches;
-        let tournamentName = seasons[0].name.replace(seasons[0].year, "").trim();
+        let seasons = this.props.matches.sort((a, b) => {
+            if(a.start_date > b.start_date){
+                return 1;
+            }else if(a.start_date < b.start_date){
+                return -1;
+            }else return 0;
+        });
+
+        let lastSeason = seasons[seasons.length-1];
+        let tournamentName = lastSeason.name.replace(lastSeason.year, "").trim();
 
         let headers = Array.of(
             <th></th>,
@@ -23,8 +31,9 @@ class Table extends React.Component {
         });
         let firstCoverage = coverages[0];
 
-        let value = this.calculateValues(firstCoverage);
+        let value = this.calculateValues(seasons, firstCoverage);
         this.state = {
+            seasons: seasons,
             name: tournamentName,
             headers: headers,
             coverages: coverages,
@@ -43,6 +52,7 @@ class Table extends React.Component {
             displayDataTypes={false}
             displayObjectSize={false}
             src={json}
+            enableClipboard={false}
             shouldCollapse={(e) => {
                 return e.name !== "root" && !this.containsOne(this.allowedJsonNames, e.namespace)
             }}/>
@@ -61,9 +71,7 @@ class Table extends React.Component {
         return contains
     };
 
-    calculateValues = (coverage) => {
-        let seasons = this.props.matches;
-
+    calculateValues = (seasons, coverage) => {
         let value = seasons.map((season) => {
             let coveragedFields = season.fields[coverage.value];
             if (coveragedFields) {
@@ -93,7 +101,7 @@ class Table extends React.Component {
 
     handleChangeSelect = selectedOption => {
         this.setState({coverage: selectedOption});
-        this.calculateValues(selectedOption)
+        this.calculateValues(this.state.seasons, selectedOption)
     };
 
     render() {
