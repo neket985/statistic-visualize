@@ -1,21 +1,28 @@
 import React from 'react';
 import './App.css';
-import Table from "./Table";
-import matches7 from './matches_7_table.json';
-import matches205 from './matches_205_table.json';
-import matches672 from './matches_672_table.json';
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link
+} from "react-router-dom";
+import MatchTable from "./MatchTable";
 
 function App() {
 
     return (
-        <div className="App">
-            <header className="App-header">
-
-            </header>
-            <body>
-                <Table matches={matches7}></Table>
-            </body>
-        </div>
+        <Router>
+            <div>
+                <Switch>
+                    <Route path="/:id">
+                        <MatchTable/>
+                    </Route>
+                    <Route path="/">
+                        <MatchTable tournament={"7"}/>
+                    </Route>
+                </Switch>
+            </div>
+        </Router>
     );
 }
 
